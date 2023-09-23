@@ -1,19 +1,20 @@
 # Tea_do_list
 This is a Todo List app made in flutter and dart language. The app has a simple yet complete interface that a scheduler and Todo list app needs.
 
-# Tea_do_list
+![screen1]([https://github.com/nvt1802/demo/blob/main/logo.png](https://github.com/jackdote12345/Tea_do_list/blob/main/review/Screenshot%202023-09-10%20at%202.24.07%20PM.png)https://github.com/jackdote12345/Tea_do_list/blob/main/review/Screenshot%202023-09-10%20at%202.24.07%20PM.png)
 
-A new Flutter project.
+![screen2](https://github.com/jackdote12345/Tea_do_list/blob/main/review/Screenshot%202023-09-10%20at%202.24.32%20PM.png)
 
-## Getting Started
+![screen3]([https://github.com/jackdote12345/Tea_do_list/blob/main/review/Screenshot%202023-09-10%20at%202.24.32%20PM.png](https://github.com/jackdote12345/Tea_do_list/blob/main/review/Screenshot%202023-09-10%20at%202.25.03%20PM.png))
 
-This project is a starting point for a Flutter application.
+![screen4]([https://github.com/jackdote12345/Tea_do_list/blob/main/review/Screenshot%202023-09-10%20at%202.24.32%20PM.png](https://github.com/jackdote12345/Tea_do_list/blob/main/review/Screenshot%202023-09-10%20at%202.25.15%20PM.png))
 
-A few resources to get you started if this is your first Flutter project:
+![screen5]([https://github.com/jackdote12345/Tea_do_list/blob/main/review/Screenshot%202023-09-10%20at%202.24.32%20PM.png](https://github.com/jackdote12345/Tea_do_list/blob/main/review/Screenshot%202023-09-10%20at%202.25.29%20PM.png))
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![screen6]([https://github.com/jackdote12345/Tea_do_list/blob/main/review/Screenshot%202023-09-10%20at%202.24.32%20PM.png](https://github.com/jackdote12345/Tea_do_list/blob/main/review/Screenshot%202023-09-10%20at%202.25.46%20PM.png))
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screen7]([https://github.com/jackdote12345/Tea_do_list/blob/main/review/Screenshot%202023-09-10%20at%202.24.32%20PM.png](https://github.com/jackdote12345/Tea_do_list/blob/main/review/Screenshot%202023-09-10%20at%202.26.03%20PM.png))
+
+![screen8]([https://github.com/jackdote12345/Tea_do_list/blob/main/review/Screenshot%202023-09-10%20at%202.24.32%20PM.png](https://github.com/jackdote12345/Tea_do_list/blob/main/review/Screenshot%202023-09-10%20at%202.27.05%20PM.png))
+
+![screen9](https://github.com/jackdote12345/Tea_do_list/blob/main/review/Screenshot%202023-09-10%20at%202.27.29%20PM.png)
