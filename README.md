@@ -2,7 +2,9 @@ Task-Management-Application
 
 • Developed a task management app using Flutter and Dart with core features such as task creation, editing, organization, reminders,
 and note-taking.
+
 • Utilized Flutter UI to design intuitive interfaces, leading to a remarkable 63% improvement in user engagement.
+
 • Integrated Hive database for optimized task management and reminders with 47% improvement in efficiency.
 
 ![screen1](https://github.com/jackdote12345/Tea_do_list/blob/main/review/Screenshot%202023-09-10%20at%202.24.07%20PM.png)
